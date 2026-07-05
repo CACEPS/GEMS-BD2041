@@ -4,7 +4,7 @@ A dynamic CGE assessment of Bangladesh’s Vision 2041
 
 Replication materials for: *Auditing long run development targets in
 emerging economies: A dynamic CGE assessment of Bangladesh's Vision
-2041* (submitted to Structural Change and Economic Dynamics).
+2041*.
 
 
 ## Contents
